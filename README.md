@@ -33,13 +33,13 @@ Neste cenário simulado, atuo como Engenheiro de Dados Júnior em uma empresa br
 
 ## 🗂 Estrutura do Repositório
 
-```plaintext
+```text
 📁 triggoai-2025-olist-ecommerce-analysis
 │
 ├── 📄 README.md                        # Documentação do projeto
 ├── 📄 requirements.txt                 # Lista de dependências do projeto
-├── 📊 olist_ecommerce_analysis.ipynb  # Notebook com a análise exploratória
-├── 📁 data                            # Dados originais do dataset Olist
+├── 📊 olist_ecommerce_analysis.ipynb   # Notebook com a análise exploratória
+├── 📁 data                             # Dados originais do dataset Olist
 │   ├── olist_customers_dataset.csv
 │   ├── olist_order_items_dataset.csv
 │   ├── olist_order_payments_dataset.csv
@@ -49,5 +49,5 @@ Neste cenário simulado, atuo como Engenheiro de Dados Júnior em uma empresa br
 │   ├── olist_sellers_dataset.csv
 │   ├── olist_geolocation_dataset.csv
 │   └── product_category_name_translation.csv
-└── 📁 outputs                         # Resultados e visualizações
+└── 📁 outputs                          # mapa
     └── mapa_vendas.html
